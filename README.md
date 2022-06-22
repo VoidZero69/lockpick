@@ -9,12 +9,12 @@
 
 
 ## How-to-use
-`local testplayer = exports["lockpick"]:lockpick()
+local testplayer = exports["lockpick"]:lockpick()
 if testplayer then 
 
 elseif not testplayer then 
 
-end`
+end
 
 ## example
 wiring = exports ["fixwiring"]:CircuitGame('50%', '50%', '1.0', '30vmin', '1.ogg')
