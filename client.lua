@@ -9,7 +9,6 @@ function lockpick()
         local anim = "mini_games@story@mud5@cracksafe_look_at_dial@med_r@ped"
         local idle = "base_idle"
         local lr = "left_to_right"
-        local rl = "right_to_left"
         RequestAnimDict(anim)
         while not HasAnimDictLoaded(anim) do
             Citizen.Wait(50)
