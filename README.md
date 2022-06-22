@@ -16,6 +16,4 @@ if testplayer then
 elseif not testplayer then 
 
 end
-
-## example
-wiring = exports ["fixwiring"]:CircuitGame('50%', '50%', '1.0', '30vmin', '1.ogg')
+https://media.discordapp.net/attachments/717693682995691521/906890927921041458/unknown.png
