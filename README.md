@@ -7,7 +7,6 @@
 3. Add `lockpick` to your `server.cfg` file
 4. Restart your server
 
-
 ## How-to-use
 local testplayer = exports["lockpick"]:lockpick()
 
@@ -16,3 +15,6 @@ if testplayer then
 elseif not testplayer then 
 
 end
+
+## Preview
+![alt text](http://url/to/img.png](https://media.discordapp.net/attachments/717693682995691521/906890927921041458/unknown.png)
