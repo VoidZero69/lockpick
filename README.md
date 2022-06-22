@@ -16,4 +16,3 @@ if testplayer then
 elseif not testplayer then 
 
 end
-https://media.discordapp.net/attachments/717693682995691521/906890927921041458/unknown.png
