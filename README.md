@@ -17,4 +17,4 @@ elseif not testplayer then
 end
 
 ## Preview
-![alt text](http://url/to/img.png](https://media.discordapp.net/attachments/717693682995691521/906890927921041458/unknown.png)
+![Alt text]((https://media.discordapp.net/attachments/717693682995691521/906890927921041458/unknown.png))
